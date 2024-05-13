@@ -55,3 +55,4 @@ answer_button.addEventListener("click", get_ans);
 let my_button = document.getElementById("new_verse");
 my_button.addEventListener("click", get_ayah);
 my_button.addEventListener("click", clear_ans);
+

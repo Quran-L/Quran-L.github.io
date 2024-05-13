@@ -1,9 +1,9 @@
 button {
-    padding: 1.3em 3em;
-    font-size: 15px;
+    padding: 1em 2em;
+    font-size: 16px;
     font-family: monospace;
     text-transform: uppercase;
-    letter-spacing: 2.5px;
+    letter-spacing: 2px;
     font-weight: 500;
     color: #000;
     background-color: #fff;
@@ -52,4 +52,19 @@ button {
   .money {
     margin-left: 40%;
     margin-top: 5%;
+  }
+
+  .numbers {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 2%;
+  }
+  
+  .input {
+    max-width: 75px;
+    padding: 12px;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 2px 2px 7px 0 rgb(0, 0, 0, 0.2);
+    outline: none;
+    color: dimgray;
   }
